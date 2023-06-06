@@ -1,0 +1,8 @@
+TODO: Set option value for sliders
+TODO: Proper sounds
+TODO: Proper timings
+TODO: Stress test
+TODO: Suboptions for hjertesvigt
+
+TODO: Intro
+TODO: Disclaimer
